@@ -24,19 +24,20 @@ Empresa dedicada al desarrollo de software, implementaciones IOT, PLC y equipos 
 ---
 Simple COmuniquese por alguno de los canales y resolveremos su problema.
  	
-## Guía de instalación
 ---
+## Guía de instalación
 Paso a paso de cómo instalar las herramientas necesarias para montar un servidor con MySQL, APache, PHP, donde montar los servicios Web, SSH, FTP, Samba y demas datos.
 
+---
 ### Dependencias
 Aca irian las dependencias para montar el servidor.
 
-## Cómo contribuir
 ---
+## Cómo contribuir
 No me hackee please.
 
-## Autor/es
 ---
+## Autor/es
 Yo y ya agregaremos mas personas... tranca.
 
 ## Información adicional
