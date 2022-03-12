@@ -3,7 +3,6 @@
 <p align="center"><img src="https://pa1.narvii.com/7326/260da877ef2f9cbe7dc874101641b7ae6ca5d0d8r1-500-500_hq.gif"/></p> 
 
 ## Tabla de contenidos:
----
 
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de usuario](#guía-de-usuario)
@@ -17,35 +16,27 @@
 
 
 ## Descripción y contexto
----
 Empresa dedicada al desarrollo de software, implementaciones IOT, PLC y equipos afines.
 
 ## Guía de usuario
----
 Simple COmuniquese por alguno de los canales y resolveremos su problema.
  	
----
 ## Guía de instalación
 Paso a paso de cómo instalar las herramientas necesarias para montar un servidor con MySQL, APache, PHP, donde montar los servicios Web, SSH, FTP, Samba y demas datos.
 
----
 ### Dependencias
 Aca irian las dependencias para montar el servidor.
 
----
 ## Cómo contribuir
 No me hackee please.
 
----
 ## Autor/es
 Yo y ya agregaremos mas personas... tranca.
 
 ## Información adicional
----
 Dando los primeros pasos con Ladder.
 
 ## Licencia 
----
 La licencia especifica los permisos y las condiciones de uso que el desarrollador otorga a otros desarrolladores que usen y/o modifiquen la herramienta digital.
 
 Incluye en esta sección una nota con el tipo de licencia otorgado a esta herramienta digital. El texto de la licencia debe estar incluído en un archivo *LICENSE.md* o *LICENSE.txt* en la raíz del repositorio.
