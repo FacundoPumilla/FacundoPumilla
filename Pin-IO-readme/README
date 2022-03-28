@@ -1,0 +1,31 @@
+-D0: Pin libre
+-D1: Pin libre
+-D2: SDA, DS18B20 sensor + Pin Libre para pantallas
+-D3: Entrada Digital con pullUp incluida
+-D4: Entrada Digital con pullUp incluida
+-3v: Pin libre
+-Gn: Pin libre
+-D5: Entrada Digital Rele 220v #2
+-D6: Entrada Digital Rele 220v #1
+-D7: LED Luminoso rojo
+-D8: LED Luminoso verde
+-TX: Pin libre
+-RX: Pin libre
+-Gn: Pin libre
+-3v: Pin libre
+
+-A0: Entrada analogica Sensor Intensidad
+-Gn: No usado
+-VV: No usado
+-S3: Entrada Digital con pullUp incluida
+-S2: Entrada Digital con pullUp incluida
+-S1: Pin libre
+-SC: Pin libre
+-S0: Pin libre
+-SK: Pin libre
+-Gn: Pin libre
+-3v: Pin libre
+-EN: Pin libre
+-RST: Pin libre
+-Gn: Entrada de -5v
+-Vin: Entrada de +5v
