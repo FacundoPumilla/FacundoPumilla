@@ -17,8 +17,11 @@
 -A0: Entrada analogica Sensor Intensidad
 -Gn: No usado
 -VV: No usado
+//################################################################
+// ####### Eliminar estas entradas, el Nodemcu solo admite 5 Input
 -S3: Entrada Digital con pullUp incluida
 -S2: Entrada Digital con pullUp incluida
+//################################################################
 -S1: Pin libre
 -SC: Pin libre
 -S0: Pin libre
