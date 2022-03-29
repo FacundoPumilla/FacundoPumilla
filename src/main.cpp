@@ -55,7 +55,7 @@ void setup() {
   #ifdef DEBUG_ENABLE
   while(!Serial);
   PTN("## Sensor de temperatura iniciado ##");
-  PT("Sensores encontrados: ");
+  PT("Sensores encontrados en setup: ");
   static int numDev = sensorTemp.getDeviceCount();
   Serial.println(numDev, DEC);
   //discoverOneWireDevices();
